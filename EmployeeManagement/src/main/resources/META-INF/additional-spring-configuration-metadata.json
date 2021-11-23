@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "spring.jpa.datasource.locations",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.datasource.locations'"
+  },
+  {
+    "name": "spring.datasourse.schema",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourse.schema'"
+  },
+  {
+    "name": "app.nfs.path",
+    "type": "java.lang.String",
+    "description": "A description for 'app.nfs.path'"
+  },
+  {
+    "name": "spring.datasourse.schema",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourse.schema'"
+  },
+  {
+    "name": "spring.datasourse.schema",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourse.schema'"
+  },
+  {
+    "name": "spring.datasourse.schema",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourse.schema'"
+  },
+  {
+    "name": "file.upload-dir",
+    "type": "java.lang.String",
+    "description": "A description for 'file.upload-dir'"
+  }
+]}
